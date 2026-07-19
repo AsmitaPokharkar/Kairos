@@ -3,7 +3,7 @@ The Opportune Interview Simulator
 
 Kairós (from the ancient Greek word for the right, critical, or opportune moment) is an AI-powered interview simulator that helps job seekers practice and perfect their responses under realistic pressure. Upload your résumé, get dynamically generated questions, and engage in a real‑time mock interview with an AI hiring manager – all within a sleek, responsive web app.
 
-Live Demo:[https://kairos-nine-lac.vercel.app/](https://kairos-nine-lac.vercel.app/)
+Live Demo: [https://kairos-nine-lac.vercel.app/](https://kairos-nine-lac.vercel.app/)
 
 ---
 
