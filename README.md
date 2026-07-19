@@ -164,5 +164,3 @@ Acknowledgements :
 ---
 
 Built with ❤️ for job seekers everywhere. Good luck – your opportune moment awaits!
-
-```
